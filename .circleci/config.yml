@@ -37,7 +37,7 @@ jobs:
             docker push josh114/udagram-api-feed:v5
             docker push josh114/udagram-api:v6
             docker push josh114/udagram-api-user:v5
-            docker push josh114/udagram-frontend:v6
+            docker push josh114/udagram-frontend:v7
             docker push josh114/udagram-reverseproxy:v5
 workflows:
   default:
